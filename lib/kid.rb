@@ -17,5 +17,5 @@ class Dancer
 
     def intialize(name)
       @name = name
-  end
+    end
 end
